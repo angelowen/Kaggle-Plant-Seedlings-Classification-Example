@@ -24,6 +24,6 @@ https://github.com/angelowen/Kaggle-Plant-Seedlings-Classification-Example
 
 All contributions are welcome.
 
-### learning curves (loss, accuracy)
+## learning curves (loss, accuracy)
 
 ![](https://i.imgur.com/cTPIiys.png)
